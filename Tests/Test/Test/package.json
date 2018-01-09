@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "Test",
+  "main": "app.js",
+  "author": {
+    "name": "Developer"
+  },
+  "dependencies": {
+    "solc": "^0.4.19",
+    "solidity-doc": "^0.1.3"
+  }
+}

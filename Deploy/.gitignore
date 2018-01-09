@@ -1,0 +1,6 @@
+# Nodejs packages
+node_modules
+
+# Configs
+accounts.json
+contracts.json

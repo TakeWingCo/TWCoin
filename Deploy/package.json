@@ -1,0 +1,19 @@
+{
+  "name": "actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploy_contracts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.0.0-beta.24"
+  },
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}

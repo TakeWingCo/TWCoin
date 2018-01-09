@@ -1,0 +1,16 @@
+/bin
+/Tests/Test/Test/bin
+/Tests/Test/Test/node_modules
+/Tests/Test/Test/obj
+
+# IDEA settings
+.idea
+
+# temporary file for solidity compilation
+temp.sol
+
+# Vim editor temp and backup files
+*.swo
+*.swp
+*~
+
